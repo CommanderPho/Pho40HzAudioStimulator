@@ -40,4 +40,4 @@ s_FAM = FAM_Tone(fc, fm, t);
 % title('s_FAM')
 %sound( s_FAM, fs, 16 );
 
-audiowrite('output/40Hz_FAM.m4a', s_FAM, 48000)
+audiowrite('output/40Hz_FAM.flac', s_FAM, fs)

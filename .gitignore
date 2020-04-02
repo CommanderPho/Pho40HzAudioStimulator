@@ -1,2 +1,4 @@
 *.flac
 *.m4a
+*.avi
+**.DS_Store
